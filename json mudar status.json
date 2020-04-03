@@ -1,0 +1,9 @@
+{
+    "DocumentNumber" : 30183,
+    "BusinessUnitId" : 20295,
+    "PartnerId" : 20198,
+    "Reason" : "AG",
+    "PaymentValue": 1000,
+    "PayerBankCode": 0542,
+    "PayerBankBranchCode": 042
+}

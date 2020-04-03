@@ -1,0 +1,22 @@
+{
+    "Method": "GeneratePaymentFGTS",
+    "PartnerId": 20198,
+    "BusinessUnitId": 20295,
+    "TaxNumber": 87884543000105,
+    "ContributorTaxNumber": 87884543000105,
+    "PrincipalValue": 1000,
+    "CodeRevenue": 4321,
+    "Barcode": "85830000003894302392009042208484998434788930",
+    "FgtsIdentifier": 4410,
+    "SocialConnectivityCode": 48798,
+    "SocialConnectivityDigit": 4,
+    "PaymentDate": "2020/04/03",
+    "Tags": [
+        "Comercial",
+        "Taxas",
+        "Financeiro"
+    ],
+    "RateValueType": 1,
+    "Description": "teste fgts",
+    "Identifier": "1re20"
+}
